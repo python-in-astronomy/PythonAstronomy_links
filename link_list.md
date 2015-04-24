@@ -24,7 +24,6 @@ Please edit this file to include links for repositories discussed or presented a
 |Kyle Barbary|nestle|[link](https://github.com/kbarbary/nestle)|
 |Joe Zuntz (introed)|PyMinuit|[link](https://github.com/jpivarski/pyminuit)|
 |Joe Zuntz (introed)|scipy.optimize|[link](https://github.com/jpivarski/pyminuit)|
-| Adam Ginsburg         | Astroquery             | [link] http://astroquery.readthedocs.org/en/latest/     |
 | Victor Terron			| LEMON					 | [link](https://github.com/vterron/lemon) |
 | Ajern van Elteren		| AMUSE					 | [link](http://amusecode.org) |
 | Britton Smith			| Yt					 | [link](http://yt-project.org) |
@@ -43,15 +42,9 @@ Please edit this file to include links for repositories discussed or presented a
 | Fred Moolekamp		| Toyz					 | [link](http://fred3m.github.io/toyz/)
 | Curtis McCully		| lacosmicx				 | [link](https://github.com/cmccully/lacosmicx) |
 | Thomas Robitaille		| APLpy					 | [link](https://aplpy.github.io) |
-| Thomas Robitaille		| wcsaxes				 | [link](https://github.com/astrofrog/wcsaxes) |
 | Megan Sosey			| Imexam				 | [link](http://imexam.readthedocs.org/imexam/index.html) |
 | Emille Ishida			| COIN					 | [link](http://cointoolbox.github.io) |
-| Matt Craig			| reducer				 | [link](https://github.com/mwcraig/reducer) |
-| Joe Zuntz				| CosmoSIS				 | [link](https://bitbucket.org/joezuntz/cosmosis/wiki/Home) |
 | xxxx					| ASCL					 | [link](http://ascl.net) |
 | Erik Tollerud			| Authorea				 | [link](https://www.authorea.com) |
 | Erik Tollerud			| Software Survey Analysis | [link](https://github.com/eteq/software_survey_analysis) |
-| xxxx 					| photutils				| [link](https://github.com/astropy/photutils) |
-| Stuart Mumford		| PythonTEX				 | [link](https://github.com/gpoore/pythontex) |
-| xxxxx 				| recipy				 | [link](https://github.com/recipy/recipy) | 
 | Erik Bray 			| astroplotlib			| [link](http://astroplotlib.stsci.edu) |
