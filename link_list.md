@@ -48,3 +48,5 @@ Please edit this file to include links for repositories discussed or presented a
 | Erik Tollerud			| Authorea				 | [link](https://www.authorea.com) |
 | Erik Tollerud			| Software Survey Analysis | [link](https://github.com/eteq/software_survey_analysis) |
 | Erik Bray 			| astroplotlib			| [link](http://astroplotlib.stsci.edu) |
+| Perry Greenfield 		| Glue					| [link](http://www.glueviz.org/en/stable/) |
+| Matt Craig			| AstroImageJ			| [link](http://www.astro.louisville.edu/software/astroimagej/) |
