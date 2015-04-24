@@ -2,7 +2,7 @@ Please edit this file to include links for repositories discussed or presented a
 
 | Participant name      | Package name           | repo name/link  |
 | ------------- |-------------| -----|
-|Joe Zuntz   |        Cosmosis     |  [link](https://bitbucket.org/joezuntz/cosmosis/wiki/development)     |
+|Joe Zuntz   |        CosmoSIS     |  [link](https://bitbucket.org/joezuntz/cosmosis/wiki/development)     |
 |Wolfgang Kerzendorf | specutils | [link](https://github.com/astropy/specutils)|
 |Pauline Barmby | imagecube | [link](https://github.com/sophiathl/imagecube)|
 |(many!) | astropy|[link](https://github.com/astropy/astropy)|
@@ -17,4 +17,10 @@ Please edit this file to include links for repositories discussed or presented a
 |many| astropy tutorials|[link](https://github.com/astropy/astropy-tutorials)|
 |Adam Ginsberg, others| astroquery|[link](https://github.com/astropy/astroquery)|
 |Stuart Mumford (introed)|pythontex|[link](https://github.com/gpoore/pythontex)|
-|David Perez-Suarex (introed)|recipy|[link](https://github.com/recipy/recipy)|
+|David Perez-Suarez (introed)|recipy|[link](https://github.com/recipy/recipy)|
+|Joe Zuntz (introed)|PyMC| [link](http://pymc-devs.github.io/pymc/index.html)|
+|Joe Zuntz (introed)|PyMultinest| [link](https://github.com/JohannesBuchner/PyMultiNest)|
+|Joe Zuntz (introed)|emcee| [link](http://dan.iel.fm/emcee/current/)|
+|Kyle Barbary|nestle|[link](https://github.com/kbarbary/nestle)|
+|Joe Zuntz (introed)|PyMinuit|[link](https://github.com/jpivarski/pyminuit)|
+|Joe Zuntz (introed)|scipy.optimize|[link](https://github.com/jpivarski/pyminuit)|
