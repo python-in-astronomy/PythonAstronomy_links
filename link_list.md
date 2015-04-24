@@ -13,3 +13,8 @@ Please edit this file to include links for repositories discussed or presented a
 |Matt Craig| reducer| [link](https://github.com/mwcraig/reducer)|
 |Adam Ginsberg| pvextractor| [link](https://github.com/radio-astro-tools/pvextractor)|
 |Nadia Dencheva| gwcs|[link](https://github.com/spacetelescope/gwcs)|
+|many| astropy.photutils|[link](https://github.com/astropy/photutils)|
+|many| astropy tutorials|[link](https://github.com/astropy/astropy-tutorials)|
+|Adam Ginsberg, others| astroquery|[link](https://github.com/astropy/astroquery)|
+|Stuart Mumford (introed)|pythontex|[link](https://github.com/gpoore/pythontex)|
+|David Perez-Suarex (introed)|recipy|[link](https://github.com/recipy/recipy)|
