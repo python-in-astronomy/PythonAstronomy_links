@@ -50,3 +50,4 @@ Please edit this file to include links for repositories discussed or presented a
 | Erik Bray 			| astroplotlib			| [link](http://astroplotlib.stsci.edu) |
 | Perry Greenfield 		| Glue					| [link](http://www.glueviz.org/en/stable/) |
 | Matt Craig			| AstroImageJ			| [link](http://www.astro.louisville.edu/software/astroimagej/) |
+| Amuse Team			| AMUSE			| [link](http://www.amusecode.org/) |
