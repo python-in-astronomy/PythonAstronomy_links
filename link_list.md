@@ -1,4 +1,4 @@
-Please edit this file to include links for repositories discussed or presented at the meeting.
+Please edit this file to include links for software discussed or presented at the meeting.
 
 | Participant name      | Package name           | repo name/link  |
 | ------------- |-------------| -----|
@@ -44,7 +44,7 @@ Please edit this file to include links for repositories discussed or presented a
 | Thomas Robitaille		| APLpy					 | [link](https://aplpy.github.io) |
 | Megan Sosey			| Imexam				 | [link](http://imexam.readthedocs.org/imexam/index.html) |
 | Emille Ishida			| COIN					 | [link](http://cointoolbox.github.io) |
-| xxxx					| ASCL					 | [link](http://ascl.net) |
+| Peter Teuben					| ASCL					 | [link](http://ascl.net) |
 | Erik Tollerud			| Authorea				 | [link](https://www.authorea.com) |
 | Erik Tollerud			| Software Survey Analysis | [link](https://github.com/eteq/software_survey_analysis) |
 | Erik Bray 			| astroplotlib			| [link](http://astroplotlib.stsci.edu) |
