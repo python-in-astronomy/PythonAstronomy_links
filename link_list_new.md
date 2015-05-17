@@ -11,8 +11,8 @@ The participant name is the person who introduced the software at the meeting, w
 |Erik Bray|astroplotlib|[link](http://astroplotlib.stsci.edu)|
 |(many!) | astropy | [link](https://github.com/astropy/astropy)|astropy|
 |many|astropy tutorials|[link](https://github.com/astropy/astropy-tutorials)|
-|many|astropy.photutils [link](https://github.com/astropy/photutils)|astropy.photutils|
-|Adam Ginsberg, others|astroquery||[link](https://github.com/astropy/astroquery)|
+|many|astropy.photutils|[link](https://github.com/astropy/photutils)|astropy.photutils|
+|Adam Ginsberg, others|astroquery|[link](https://github.com/astropy/astroquery)|
 |Erik Tollerud|Authorea|[link](https://www.authorea.com)|
 |Neil Crighton|Barak|[link](https://github.com/nhmc/Barak)|
 |Steve Crawford|ccdproc|[link](https://github.com/astropy/ccdproc)|
