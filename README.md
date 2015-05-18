@@ -3,6 +3,8 @@ List of links to packages discussed by participants at Python in Astronomy 2015 
 The participant name is the person who introduced the software at the meeting (not necessarily the 
 software author).
 
+This list is citable using [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17722.svg)](http://dx.doi.org/10.5281/zenodo.17722)
+
 | Participant name      | Package name           | repo link  |
 | ------------- |-------------| -----|
 |Thomas Robitaille|Acknowledgment-generator|[link](http://astrofrog.github.io/acknowledgment-generator)|
